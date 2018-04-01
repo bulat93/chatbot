@@ -1,1 +1,1 @@
-worker: python bothandler.py
+web: python bothandler.py
